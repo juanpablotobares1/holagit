@@ -1,0 +1,5 @@
+1° Crear archivo o carpeta (mkdir/echo/vim)
+2° git add "Nombre de archivo"
+3° git commit -m "Descripción" 
+4° git push
+5° git push -u origin master 
